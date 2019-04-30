@@ -6,7 +6,7 @@
 
 #header
 {
-	background: #ccc;
+	background: green;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: green;
 }
 
 #navigation ul
